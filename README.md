@@ -22,3 +22,24 @@ Aplikacja Spring Boot ktróa implementuje interfejs REST API do zarządzania zas
 | GET         | /api/v1/products/{id}                    | Pobiera informacje o pojedynczym produkcie o podanym ID.                          |
 | GET         | /api/v1/products                        | Pobiera listę wszystkich dostępnych produktów.                                  |
 | DELETE      | /api/v1/products/{id}                    | Usuwa produkt o podanym ID.                                                     |
+
+## ***Przypadki użycia:***
+
+### POST /api/v1/products
+![image](https://github.com/user-attachments/assets/0851374a-5b13-46d8-9a9a-0bd7eb4dba48)
+
+### PUT /api/v1/products/{id}
+![image](https://github.com/user-attachments/assets/661d3928-6f0c-4a4b-8af0-2d50a3784bc8)
+
+### GET /api/v1/products/{id}
+![image](https://github.com/user-attachments/assets/a20539af-6f78-40ee-a780-f0185c94133f)
+
+### GET /api/v1/products
+![image](https://github.com/user-attachments/assets/699f3303-5664-4f19-b8cb-48a2af718a41)
+
+### DELETE /api/v1/products/{id}
+![image](https://github.com/user-attachments/assets/b092d60e-296e-47fc-8e25-c3b6fc99606f)
+
+
+
+
